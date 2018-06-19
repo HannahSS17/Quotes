@@ -1,0 +1,9 @@
+QUOTES APP
+
+Preconditions:
+1. Minimum SDK version 8.1
+
+
+Description:
+The task of the app is to show to the user an inspirational quote after clicking the button "Inspire Me".
+It was written during my Android programming training.

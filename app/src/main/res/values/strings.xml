@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="textview" />
+    <string name="hello_world">Hello World</string>
+</resources>
